@@ -1,0 +1,132 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.35rem;
+}
+
+.navbar-div {
+    background-color: #FFABAB;
+}
+
+.navbar-brand {
+    font-size: 150%;
+}
+
+.nav-link {
+    font-size: 125%;
+}
+
+.title {
+    padding-top: 6rem;
+}
+
+.ult-box1 {
+    background-color: #FCC8D1;
+}
+
+.big-box {
+    margin: 0;
+    padding: 0;
+}
+
+.big-box1 {
+    background-color: #FCC8D1;
+    text-color: black;
+}
+
+.box2 {
+    justify-content: center;
+    background-color: #FCC8D1;
+}
+
+.big-box2 {
+    background-color: #FCC8D1;
+    padding: 0;
+}
+
+.achv-logo {
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.achv-logo2 {
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.features {
+    padding: 5%;
+    text-align: center;
+    line-height: 3;
+}
+
+.moto-section {
+    background-color: #FEF2F4;
+}
+
+.moto {
+    text-align: center;
+    padding: 5% 0;
+}
+
+.moto-line1 {
+    font-size: 200%;
+}
+
+.moto-line2 {
+    font-size: 300%;
+}
+
+.moto-line3 {
+    font-size: 500%;
+}
+
+.brand-part {
+    color: #FFABAB;
+}
+
+.more-about-us {
+    background-color: white;
+    padding: 5% 0;
+}
+
+.more-about-us-title {
+    font-size: 400%;
+}
+
+#pricing {
+    padding: 7%;
+}
+
+#cta {
+    background-color: #FFABAB;
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+#footer {
+    padding: 7%;
+    background-color: #fff;
+    text-align: center;
+}
+
+.footer-icon {
+    margin: 1%;
+}
+
+@media (max-width:1000px) {
+    .title {
+        padding:0
+    }
+    .big-box1 {
+        border-top: solid;
+        border-color: #FFABAB;
+        padding-bottom: 5%;
+    }
+}
